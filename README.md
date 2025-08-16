@@ -1,7 +1,7 @@
 # 🧰 Edward - Speak. Automate. Simplify.
 
 - **E**ngine for **D**ata, **W**orkflow, **A**ssistance, **R**easoning, and **D**ecision-making.
-- **Edward** is your intelligent Python assistant that listens, thinks, and acts—automating tasks, managing routines, and responding naturally to your voice commands.
+- **Edward** is your Intelligent Python Assistant that listens, thinks, and acts—automating tasks, managing routines, and responding naturally to your voice commands.
 
 ## Levels of Functionality:
 
