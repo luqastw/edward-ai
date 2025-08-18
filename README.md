@@ -25,4 +25,4 @@
 
 ## Contact:
 
-For questions, suggestions, or contributions, contact: lucasborcem1@gmail.com or arthursilvaferc@gmail.com.
+For questions, suggestions, or contributions, contact: lucasborcem1@gmail.com or arthursilvaferc@gmail.com
